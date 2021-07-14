@@ -1,0 +1,11 @@
+{
+  "name": "transform-str",
+  "version": "1.0.0",
+  "description": "替换占位符拼接字符串的类型，占位符默认为%s",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asarua",
+  "license": "ISC"
+}
